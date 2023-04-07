@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.zigmod/": true,
+    "**/zig-out/": true
+  }
+}

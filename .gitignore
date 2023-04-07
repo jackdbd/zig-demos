@@ -1,0 +1,14 @@
+# object files
+**.o
+
+# executables
+hello-debug
+hello-macos
+hello-small
+hello-windows.exe
+hello-windows.exe.obj
+
+**/.zigmod/
+# compilation artifacts and cache
+**/zig-out/
+**/zig-cache/

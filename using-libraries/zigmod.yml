@@ -1,0 +1,7 @@
+id: roe9in0tetqew3d2tpzhn5lvye0nxjh1uczc5a371tse6hs2
+name: using-libraries
+license: MIT
+description: Demo of using libraries in Zig
+root_dependencies:
+  - src: git https://github.com/Hejsil/zig-clap
+  - src: git https://github.com/ziglibs/zlm
